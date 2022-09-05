@@ -47,7 +47,7 @@ public class lambda {
                 return x+y;
             }
         };
-        System.out.println(x.display("Hello ","Mohit"));
+        System.out.println(x.display("Hello ","Mohit kapoor"));
         System.out.println(x.add(4,8));
 
 
