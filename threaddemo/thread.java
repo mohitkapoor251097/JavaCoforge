@@ -1,4 +1,2 @@
-package threaddemo;
-
-public class thread {
+package threaddemo;public class thread {
 }
